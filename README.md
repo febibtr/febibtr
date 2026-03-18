@@ -1,7 +1,7 @@
 ![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Welcome+to+my+GitHub;Web+Developer;Always+Learning)
 # Hi 👋, I'm Febi Bahtiyar
 
-![Anime](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ## 🔧 Tech Stack
 
@@ -13,12 +13,9 @@
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=febibtr\&show_icons=true\&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=febibtr\&layout=compact\&theme=tokyonight)
-![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-## 📫 Contact
-
-* Instagram: (effuture)
+## 🎮 Player Contact
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/effuture)
+[![Email](https://img.shields.io/badge/EMAIL-00FF00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:febibahtiyar28@gmail.com)
 
