@@ -1,4 +1,5 @@
-# Hi 👋, I'm Febi
+![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Welcome+to+my+GitHub;Web+Developer;Always+Learning)
+# Hi 👋, I'm Febi Bahtiyar
 
 💻 Mahasiswa IT dari Indonesia
 🚀 Tertarik pada Web Development & Data
@@ -21,15 +22,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=febibtr\&layout=compact\&theme=tokyonight)
 
----
-
-## 📌 Project Saya
-
-* 🔥 Sistem Kasir Restoran (JavaScript)
-* 📊 Prediksi Data (Machine Learning)
-* 🌐 Website Portfolio
-
----
 
 ## 🎯 Goals 2026
 
