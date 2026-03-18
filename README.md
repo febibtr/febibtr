@@ -1,9 +1,6 @@
 ![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Welcome+to+my+GitHub;Web+Developer;Always+Learning)
+![Typing](https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=Anime+Lover;Web+Developer;Always+Learning)
 # Hi 👋, I'm Febi Bahtiyar
-
-💻 Mahasiswa IT dari Indonesia
-🚀 Tertarik pada Web Development & Data
-🌱 Sedang belajar JavaScript, PHP, dan Machine Learning
 
 ---
 
@@ -23,18 +20,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=febibtr\&layout=compact\&theme=tokyonight)
 
 
-## 🎯 Goals 2026
-
-* Menguasai JavaScript & Laravel
-* Membuat 5+ project portfolio
-* Belajar AI / Machine Learning
-
----
-
 ## 📫 Contact
 
 * Instagram: (effuture)
 
----
-
-⭐ Terima kasih sudah mengunjungi profil saya!
