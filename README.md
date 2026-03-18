@@ -1,8 +1,7 @@
 ![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Welcome+to+my+GitHub;Web+Developer;Always+Learning)
-![Typing](https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=Anime+Lover;Web+Developer;Always+Learning)
 # Hi 👋, I'm Febi Bahtiyar
 
----
+![Pixel](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif)
 
 ## 🔧 Tech Stack
 
@@ -16,11 +15,10 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=febibtr\&show_icons=true\&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=febibtr\&layout=compact\&theme=tokyonight)
 
 
 ## 📫 Contact
 
 * Instagram: (effuture)
-
+![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
