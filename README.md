@@ -10,12 +10,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge\&logo=php)
 
----
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=febibtr\&layout=compact\&theme=tokyonight)
-
-## 🎮 Player Contact
+## 📞 Contact
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/effuture)
 [![Email](https://img.shields.io/badge/EMAIL-00FF00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:febibahtiyar28@gmail.com)
 
