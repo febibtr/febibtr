@@ -12,6 +12,5 @@
 
 
 ## 📞 Contact
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/effuture)
 [![Email](https://img.shields.io/badge/EMAIL-00FF00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:febibahtiyar28@gmail.com)
 
